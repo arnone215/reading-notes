@@ -8,7 +8,7 @@
 - Success of others, It inspires them!
 #### A great example of a Growth Mindset outlook, would be Michael Jordan's 'Flu Game', in which he refused to sit out Game 5 of the 1997 NBA Finals while he was battling illness. Scoring an unbelievable 38 points, 7 rebounds, 5 assists, 3 steals and 1 block, including a 3-pointer with less than a minute left that gave the Bulls a lead they did not relinquish.
 
-![alt text](image.jpg)
+![alt text](https://user-images.githubusercontent.com/60588131/92559325-39767e00-f225-11ea-8693-4990a072d852.png)
 
 ### What **IS** 
 
