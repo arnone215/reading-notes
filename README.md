@@ -10,6 +10,8 @@ Hello there! My name is Thomas, an aspiring Software Developer looking to bring 
 
 [GitHub](https://www.github.com/arnone215/reading-notez)
 
+##### Table of Contents
+
 [Class 1](class1.md)
 
 [Class 2](class2.md)
