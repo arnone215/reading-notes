@@ -16,3 +16,4 @@ Hello there! My name is Thomas, an aspiring Software Developer looking to bring 
 
 [Class 3](class3.md)
 
+
