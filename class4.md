@@ -1,6 +1,6 @@
-#Structure web pages with HTML!
+# Structure web pages with HTML!
 
-##New Vocabulary
+## New Vocabulary
 -HTML / Markup
 -Semantics
 -Wireframe
@@ -12,9 +12,9 @@
 -Attribute
 -Structure vs Presentation
 
-##Chap-18
+## Chap-18
 
-###Who is the site for?
+### Who is the site for?
 	**Target Audience: Individuals**
 
 -Age range
@@ -36,7 +36,7 @@
 -For themselves or others?
 -Budget
 
-###Why they visit your site
+### Why they visit your site
 
 	***WHY WHY WHY***
 
@@ -47,19 +47,19 @@ a. personal
 b. professional
 -Do they see it ass an essential activity or a luxury?
 
-###Specific goals:
+### Specific goals:
 -General info/research on a company or specific fact or info on a product
 -Are they familiar with your product/service or need info
 -Are they looking for time sensitive info? Ex: News/updates on certain topic
 -Discover info about a product or want help to decide whether to buy or not.
 -Point of Contact (In person:hours/map, email/phone)
 
-###What are they there for?
+### What are they there for?
 	*Create a list of reasons people visit site.*
 -Target your audience!
 
 
-###What info visitors need?
+### What info visitors need?
 	*You know **WHO** is coming and why. Provide as much info possible to help them quickly find solution to their problem.*
 Key info:
 -Familiarity of subject area/brand?
@@ -69,7 +69,7 @@ Key info:
 -FAQ?
 
 
-###Frequency of Visitors
+### Frequency of Visitors
 	*STAY UP TO DATE WITH IDEAS/OFFERS/TECHNOLOGY*
 -Set maintenance/update schedule.
 	Goods/services
@@ -84,7 +84,7 @@ Wireframes
 
 
 
-###Getting message across via Design!
+### Getting message across via Design!
 
 1. Content
 	-Logo
@@ -113,6 +113,6 @@ Wireframes
 6. Similarity
 
 
-##Visual Hierarchy
+## Visual Hierarchy
 -order of which eyes understand what they see.
 	ex: size/color/font/images/geocode.
