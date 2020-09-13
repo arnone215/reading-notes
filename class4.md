@@ -1,16 +1,16 @@
 # Structure web pages with HTML!
 
 ## New Vocabulary 
--HTML/Markup 
--Semantics 
--Wireframe 
--Personas 
--Meta 
--Content 
--Element 
--Tag 
--Attribute 
--Structure vs Presentation
+- HTML/Markup 
+- Semantics 
+- Wireframe 
+- Personas 
+- Meta 
+- Content 
+- Element 
+- Tag 
+- Attribute 
+- Structure vs Presentation
 
 ## Chap-18
 
@@ -18,60 +18,60 @@
 
 *Target Audience: Individuals*
 
--Age range 
--Gender 
--Geographical Location 
--Urban/Rural areas? 
--Average Income 
--Level of education 
--Marital/family status 
--Occupation 
--Work/life balance 
--Use of internet 
--Devices used to access
+- Age range 
+- Gender 
+- Geographical Location 
+- Urban/Rural areas? 
+- Average Income 
+- Level of education 
+- Marital/family status 
+- Occupation 
+- Work/life balance 
+- Use of internet 
+- Devices used to access
 
 *Target Audience: Companies*
 
--Size of company 
--Position of people in company who use site 
--For themselves or others? 
--Budget
+- Size of company 
+- Position of people in company who use site 
+- For themselves or others? 
+- Budget
 
 ### Why they visit your site
 
 ***WHY WHY WHY***
 Key motivators: 
--Looking for general entertainment 
--Specific goal 
-a. personal 
-b. professional 
--Do they see it ass an essential activity or a luxury?
+- Looking for general entertainment 
+- Specific goal 
+1. personal 
+2. professional 
+- Do they see it ass an essential activity or a luxury?
 
 ### Specific goals: 
--General info/research on a company or specific fact or info on a product -Are they familiar with your product/service or need info 
--Are they looking for time sensitive info? Ex: News/updates on certain topic 
--Discover info about a product or want help to decide whether to buy or not. 
--Point of Contact (In person:hours/map, email/phone)
+- General info/research on a company or specific fact or info on a product -Are they familiar with your product/service or need info 
+- Are they looking for time sensitive info? Ex: News/updates on certain topic 
+- Discover info about a product or want help to decide whether to buy or not. 
+- Point of Contact (In person:hours/map, email/phone)
 
 ### What are they there for? 
-Create a list of reasons people visit site. 
--Target your audience!
+**Create a list of reasons people visit site.** 
+- Target your audience!
 
 ### What info visitors need? 
 You know *WHO* is coming and why. Provide as much info possible to help them quickly find solution to their problem. 
 Key info: 
--Familiarity of subject area/brand? 
--Familiarity with product/service/info? 
--Important features offered? 
--What separates you from competition? 
--FAQ?
+- Familiarity of subject area/brand? 
+- Familiarity with product/service/info? 
+- Important features offered? 
+- What separates you from competition? 
+- FAQ?
 
 ### Frequency of Visitors 
 **STAY UP TO DATE WITH IDEAS/OFFERS/TECHNOLOGY** 
--Set maintenance/update schedule. 
--Goods/services 
--How often do they come back? 
--How often is product updated/service change? Ex: offers, etc. 
+- Set maintenance/update schedule. 
+- Goods/services 
+- How often do they come back? 
+- How often is product updated/service change? Ex: offers, etc. 
 
 *What percentage of return visitors vs. one time only*
 
@@ -80,32 +80,32 @@ SiteMaps Wireframes
 ### Getting message across via Design!
 
 **Content** 
--Logo 
--LinksNav 
--LinksRelatedContent/Articles 
--LoginSignup 
--CommentsReviews 
--Copywrite info 
--PrivacyPolicy TermsOfCondition
+- Logo 
+- LinksNav 
+- LinksRelatedContent/Articles 
+- LoginSignup 
+- CommentsReviews 
+- Copywrite info 
+- PrivacyPolicy TermsOfCondition
 **Prioritizing**
--Make key messages stand out 
--Distinctiveness 
--Visual Hierarchy
+- Make key messages stand out 
+- Distinctiveness 
+- Visual Hierarchy
 **Organization** 
--Proper grouping to easily understand differences
+- Proper grouping to easily understand differences
 **Visual Hierarchy** 
--Attention is drawn to images of service, add headline to explain 
--What is appealing to user?
+- Attention is drawn to images of service, add headline to explain 
+- What is appealing to user?
 **Grouping** 
--Lots of sources of info 
--At top you see logo and nav, under this is info of company 
--Next are 3 grouping, showing you the: 
-a. Service 
-b. Costs 
-c. Targeted Audience/Users Ex: Used by companies like X,Y,Z.
+- Lots of sources of info 
+- At top you see logo and nav, under this is info of company 
+- Next are 3 grouping, showing you the: 
+1. Service 
+2. Costs 
+3. Targeted Audience/Users Ex: Used by companies like X,Y,Z.
 
 ## Visual Hierarchy 
 
--order of which eyes understand what they see.
+- order of which eyes understand what they see.
 ex: size/color/font/images/geocode.
 
