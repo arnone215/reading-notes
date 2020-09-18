@@ -4,7 +4,15 @@
 Evaluating conditions.
 *You can evaluate a situation by comparing one value in the script to what you expect it might be.*
 The result will be a Boolean: true or false.
-Refer to page 150 in Javascript and JQUERY book.
+
+- == (equal to)
+- != (not equal to)
+- === (Strictly equal to)
+- !== (Strict not equal to)
+- ’>’ (Greater than)
+- ’<’ (Less than)
+- ’>=) (Great than or equal to)
+- ’<=’ (Less than or equal to)
 
 ## Logical Operators:
 Comparison operators usually return single values of true or false.
