@@ -25,3 +25,5 @@ Hello there! My name is Thomas, an aspiring Software Developer looking to bring 
 [Class 6](class6.md)
 
 [Class 7](class7.md)
+
+[Class 8](class8.md)
