@@ -12,6 +12,10 @@ Hello there! My name is Thomas, an aspiring Software Developer looking to bring 
 
 ##### Table of Contents
 
+[102 Reading Notes](102readingnotes.md)
+
+[201 Reading Notes](201-reading-notes.md)
+
 [Class 1](class1.md)
 
 [Class 2](class2.md)
