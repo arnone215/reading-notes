@@ -15,3 +15,7 @@
 [Class 7](class7.md)
 
 [Class 8](class8.md)
+
+## ***Follow me on social media!***
+- [GitHub](github.com/arnone215)
+- [LinkedIn](https://www.linkedin.com/in/thomasarnone)
