@@ -22,4 +22,4 @@
 
 ## ***Follow me on social media!***
 - [GitHub](github.com/arnone215)
-- [LinkedIn](https://www.linkedin.com/in/thomas-arnone-39098967)
+- [LinkedIn](https://www.linkedin.com/in/thomasarnone)
