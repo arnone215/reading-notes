@@ -8,8 +8,5 @@
  Person
     Attributes: hair color, height, weight, location.
     Behaviors: (verbs) - walk(), speak(), drive().
-    
-    
-    
 
-
+    ![alt text](img/DataModeling.png)
